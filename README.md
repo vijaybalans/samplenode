@@ -1,2 +1,2 @@
-# samplenode
-Sample Node Porject
+npm install
+node server.js
